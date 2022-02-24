@@ -1,4 +1,11 @@
-## Welcome to GitHub Pages
+## LASSO: Least Absolute Shrinkage Selection Operator
+
+The lasso is an extension of ordinary least squares regression that has several unique properties. 
+- variable selection
+- improved prediction
+
+$$RSS(\beta, \lambda) = (y - X\beta)^T (y - X\beta) + \lambda \|\beta\|$$
+
 
 You can use the [editor on GitHub](https://github.com/JeffreyMei926/JeffreyMei926.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
